@@ -1,0 +1,35 @@
+
+body {
+    
+    background-color: #e8967b;
+    font-family: Verdana;
+      
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: bold;
+    
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+    margin: auto;
+}
+
+
+ul {
+
+    font-size: 20px;
+
+}
+
+hr {
+
+    border-color:#aaa;
+    box-sizing:border-box;
+    
+}
+
+
